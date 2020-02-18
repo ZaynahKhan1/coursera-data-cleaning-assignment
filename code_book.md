@@ -6,7 +6,8 @@ Below is a list of the variables in FinalData.txt with devided into descriptive 
 
 1. **subject:** Test subject ID
 2. **activity:** What type of activity was being performed 
-             *activity labels: *
+            
+            * activity labels: *
               
               **1. Walking: ** subject walking during the test
               
