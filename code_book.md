@@ -107,6 +107,6 @@ All variable names are descriptive of what was being measured. All measurements 
  * FrequencyBodyGyroscope.std...Z                    
  * FrequencyBodyAccelerometerMagnitude.std..         
  * FrequencyBodyAccelerometerJerkMagnitude.std..     
- * FrequencyBodyGyroscopeMagnitude.std..             *
+ * FrequencyBodyGyroscopeMagnitude.std..             
  * FrequencyBodyGyroscopeJerkMagnitude.std.. 
 
