@@ -2,7 +2,7 @@
 
 Submission for the Coursera Getting and Cleaning Data Course peer-graded assignment.
 
-## The data set aas obtained from:
+## The data set was obtained from:
 [Human Activity Recognition Using Smartphones Data Set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 ## The accompanying files are as follows:
