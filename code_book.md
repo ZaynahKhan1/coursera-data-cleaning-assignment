@@ -4,15 +4,15 @@ Below is a list of the variables in FinalData.txt with devided into descriptive 
 
 ## Identifying Variables:
 
-1. ** subject: ** Test subject ID
-2. ** activity: ** What type of activity was being performed 
-             * activity labels: *
-              ** 1. Walking: ** subject walking during the test
-              ** 2. Walking_Up: ** subject was walking up the stairs during the test
-              ** 3. Walking_Down: ** subject was walking down the stairs during the test
-              ** 4. Sitting: ** subject was sitting the test
-              ** 5. Standing: ** subject was standing during the test
-              ** 6. Laying: ** subject was laying down during the test
+1. **subject: ** Test subject ID
+2. **activity: ** What type of activity was being performed 
+             *activity labels: *
+              **1. Walking: ** subject walking during the test
+              **2. Walking_Up: ** subject was walking up the stairs during the test
+              **3. Walking_Down: ** subject was walking down the stairs during the test
+              **4. Sitting: ** subject was sitting the test
+              **5. Standing: ** subject was standing during the test
+              **6. Laying: ** subject was laying down during the test
 
 ## Measurement Variables:
 All variable names are descriptive of what was being measured. All measurements were between -1 and 1
