@@ -22,7 +22,7 @@ Below is a list of the variables in FinalData.txt with devided into descriptive 
                6. Laying: subject was laying down during the test
 
 ## Measurement Variables:
-All variable names are descriptive of what was being measured. All measurements were between -1 and 1
+All variable names are descriptive of what was being measured. All measurements were between -1 and 1. std = Standard Deviation.
 
  * TimeBodyAccelerometer.mean...X                    
  * TimeBodyAccelerometer.mean...Y                    
